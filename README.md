@@ -3,12 +3,20 @@
 
 ### 기술 스택
 #### 사용 가능한 기술
-<img src="https://img.shields.io/badge/Python-3666AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+- 📕 Frontend
+
 <img src="https://img.shields.io/badge/React-10c8ed?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vue-3fb27f?style=flat-square&logo=Vue.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+
+- 📘 Backend
+
+<img src="https://img.shields.io/badge/Python-3666AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092e20?style=flat-square&logo=Django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+
+- 📒 Etc
+
 <img src="https://img.shields.io/badge/Git-e93104?style=flat-square&logo=Git&logoColor=white"/></a>
 
 
