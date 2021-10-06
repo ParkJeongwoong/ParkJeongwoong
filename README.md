@@ -1,6 +1,9 @@
 ### 안녕하세요! 박정웅입니다. 👋
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=toto9091">
 
+### 개인 블로그
+[GitHub Blog](https://parkjeongwoong.github.io/)
+
 ### 기술 스택
 #### 사용 가능한 기술
 - 📕 Frontend
