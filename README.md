@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/React-10c8ed?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vue-3fb27f?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 
 - 📘 Backend
 
