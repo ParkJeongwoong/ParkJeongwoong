@@ -5,31 +5,30 @@
 [GitHub Blog](https://parkjeongwoong.github.io/)
 
 ### 기술 스택
-#### 사용 가능한 기술
-- 📕 Frontend
-
-<img src="https://img.shields.io/badge/React-10c8ed?style=flat-square&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Vue-3fb27f?style=flat-square&logo=Vue.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
-
 - 📘 Backend
 
-<img src="https://img.shields.io/badge/Python-3666AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Django-092e20?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6cb33f?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-e5ba1f?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Oracle-de1b1f?style=flat-square&logo=Oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-a8b8cc?style=flat-square&logo=C&logoColor=white"/></a>
+
+- 📕 Frontend
+
+<img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-10c8ed?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 
 - 📒 Etc
 
 <img src="https://img.shields.io/badge/Git-e93104?style=flat-square&logo=Git&logoColor=white"/></a>
 
 
-#### 배우고 있는 기술
-<img src="https://img.shields.io/badge/MySQL-e5ba1f?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Oracle-de1b1f?style=flat-square&logo=Oracle&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-a8b8cc?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
+### 경험/경력
+- 💻 숙박 시스템 개발, 운영 / Next.js, Spring Boot, MariaDB / 예약결제 시스템, ics 파일을 이용한 예약 동기화 등 개발
+- 💻 개인 블로그 개발, 운영 / Next.js, Spring Boot, MariaDB / 역색인 검색, TF-IDF 문서 유사도, 서버 이중화 등 개발
+- 🏢 다우기술 / 키움증권 매매운영팀 / 약정, 자산 시스템
+- 🏢 (비개발) SK 하이닉스 / NAND CMP 공정기술팀
 
 
 ### 교육
