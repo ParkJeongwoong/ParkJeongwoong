@@ -26,7 +26,11 @@
 
 ### 경험/경력
 - 💻 숙박 시스템 개발, 운영 / Next.js, Spring Boot, MariaDB / 예약결제 시스템, ics 파일을 이용한 예약 동기화 등 개발
+  - [주소](https://yeoyeo.kr)
+  - [개발 기록](https://dvlprjw.notion.site/4a867eb55db440e5a67b3cac160c75cd?pvs=4)
 - 💻 개인 블로그 개발, 운영 / Next.js, Spring Boot, MariaDB / 역색인 검색, TF-IDF 문서 유사도, 서버 이중화 등 개발
+  - [주소](https://parkjeongwoong.github.io)
+  - [개발 기록](https://dvlprjw.notion.site/FE-BE-e5100ee2b45540e29f4e0fc77af4878b?pvs=4)
 - 🏢 다우기술 / 키움증권 매매운영팀 / 약정, 자산 시스템
 - 🏢 (비개발) SK 하이닉스 / NAND CMP 공정기술팀
 
