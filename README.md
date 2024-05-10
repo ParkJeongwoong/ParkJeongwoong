@@ -25,6 +25,7 @@
 
 
 ### 경험/경력
+- 뱅크샐러드 / 코어백엔드
 - 💻 숙박 시스템 개발, 운영 / Next.js, Spring Boot, MariaDB / 예약결제 시스템, 예약 동기화, 예약 통합 관리 등 개발
   - [서비스 주소](https://yeoyeo.kr)
   - [Repo](https://github.com/ParkJeongwoong/YeoYeo_Hanok_Server)
