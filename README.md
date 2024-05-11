@@ -8,6 +8,8 @@
 - 📘 Backend
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kotlin-a934e9?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Go-4ba4cc?style=flat-square&logo=Go&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6cb33f?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-e5ba1f?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-de1b1f?style=flat-square&logo=Oracle&logoColor=white"/></a>
@@ -16,6 +18,7 @@
 - 📕 Frontend
 
 <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TypeScript-4272ba?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-10c8ed?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 
@@ -26,9 +29,6 @@
 
 ### 경험/경력
 - 🥗 뱅크샐러드 / CoreBackend
-- 🏢 다우기술 / 키움증권 매매운영팀 / 약정, 자산 시스템
-- 🏢 (비개발) SK 하이닉스 / NAND CMP 공정기술팀
-
 - 💻 숙박 시스템 개발, 운영 / Next.js, Spring Boot, MariaDB / 예약결제 시스템, 예약 동기화, 예약 통합 관리 등 개발
   - [서비스 주소](https://yeoyeo.kr)
   - [Repo](https://github.com/ParkJeongwoong/YeoYeo_Hanok_Server)
@@ -37,6 +37,8 @@
   - [서비스 주소](https://parkjeongwoong.github.io)
   - [Repo](https://github.com/ParkJeongwoong/blog_server_main)
   - [개발 기록](https://dvlprjw.notion.site/FE-BE-e5100ee2b45540e29f4e0fc77af4878b?pvs=4)
+- 🏢 다우기술 / 키움증권 매매운영팀 / 약정, 자산 시스템
+- 🏢 (비개발) SK 하이닉스 / NAND CMP 공정기술팀
 
 
 ### 교육
